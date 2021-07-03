@@ -182,3 +182,13 @@ This project template is based on [MrGemy95](https://github.com/MrGemy95)'s [Ten
 
 
 Thanks for my colleagues [Mahmoud Khaled](https://github.com/MahmoudKhaledAli), [Ahmed Waleed](https://github.com/Rombux) and [Ahmed El-Gammal](https://github.com/AGammal) who worked on the initial project that spawned this template.
+
+### Run-It-Up
+
+# Starting Environment
+
+``` source money/bin/activate ```
+
+# Exiting Environment
+
+``` deactivate ```
